@@ -1,10 +1,13 @@
-import VirtualList from './pages/VirtualList'
+import VirtualList from './pages/VirtualList';
+import Home from './pages/Home';
+import './App.css';
 
 function App() {
 
   return (
     <>
-      <VirtualList />
+      {/* <VirtualList /> */}
+      <Home />
     </>
   )
 }
