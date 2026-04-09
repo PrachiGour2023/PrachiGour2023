@@ -45,3 +45,9 @@
   font-weight: bold;
   cursor: pointer;
 }
+
+.no-product-text {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+}
